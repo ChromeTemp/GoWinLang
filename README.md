@@ -1,6 +1,6 @@
 <!-- cspell:word Println -->
 
-# GoWinLang
+# GoWinLang [![CI](https://github.com/ChromeTemp/GoWinLang/actions/workflows/CI.yml/badge.svg)](https://github.com/ChromeTemp/GoWinLang/actions/workflows/CI.yml)
 > Detect Windows user language in Go
 
 ## Installation
